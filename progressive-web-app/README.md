@@ -1,7 +1,7 @@
 # Building a Progressive Web App
-This is the repository for my course Building a Progressive Web App. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/building-a-progressive-web-app?trk=insiders_6787408_learning) and [Lynda.com](https://www.lynda.com/CSS-tutorials/Building-Progressive-Web-App/518052-2.html)
+This is the repository for my course Building a Progressive Web App. 
 
-[![Building a Progressive Web App](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=aQ6G2w74X1j6D6cAmlJECXlPxGk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWi2q_9efZXbhecLdZLSiolwQcCQHkAU7fu2hRTHmEY69LcLmY4Yx3A)](https://www.linkedin.com/learning/building-a-progressive-web-app?trk=insiders_6787408_learning)
+[![Building a Progressive Web App](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=aQ6G2w74X1j6D6cAmlJECXlPxGk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWi2q_9efZXbhecLdZLSiolwQcCQHkAU7fu2hRTHmEY69LcLmY4Yx3A)]
 
 Native apps do things like work offline and load on a device's home screen. Until now, mobile web apps accessed in a browser lacked those features. Progressive web apps correct these shortcomings. A progressive web app—like the one you build in this course—is 1) fast loading 2) responsive 3) able to work offline using service workers, 4) secure using HTTPS, and 5) installable using a special manifest. Ray Villalobos takes you the extra steps to make your web apps progressive, using a custom version of the Bootstrap framework and modals and templating system called Handlebars. Follow along to learn how to create interactive navigation, dynamic and responsive content such as carousels and multimedia, offline capabilities with service workers, and a more integrated launch experience with an app manifest file.
 
